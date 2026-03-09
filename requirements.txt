@@ -7,3 +7,4 @@ drf-yasg
 gunicorn
 dj-database-url
 whitenoise
+python-decouple
