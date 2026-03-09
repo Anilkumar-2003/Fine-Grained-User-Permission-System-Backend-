@@ -8,3 +8,4 @@ gunicorn
 dj-database-url
 whitenoise
 python-decouple
+django-cors-headers
